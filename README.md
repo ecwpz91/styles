@@ -51,7 +51,7 @@ npm i
 
 # Usage
 
-### Let's build it!
+### Let's party ;)
 
 ```sh
 grunt

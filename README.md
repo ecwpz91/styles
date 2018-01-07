@@ -1,3 +1,3 @@
 # Styles
 
-Bootstrap toolkit for developing with HTML, CSS, and JS only that only compiles `dist` embeds Font Awesome iconography.
+Bootstrap toolkit that embeds Font Awesome for developing with HTML, CSS, and JS.

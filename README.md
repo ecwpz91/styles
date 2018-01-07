@@ -1,2 +1,3 @@
-# styles
-A CSS minification toolkit based on Bootstrap and Font Awesome
+# Styles
+
+Bootstrap toolkit for developing with HTML, CSS, and JS only that compiles `dist` embeds Font Awesome iconography.

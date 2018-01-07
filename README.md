@@ -6,7 +6,7 @@ Bootstrap toolkit that embeds Font Awesome for developing with HTML, CSS, and JS
 
 To use this project, you'll need (at minimum):
 
-- Node.js' package ecosystem, `npm`
+- Node.js' package ecosystem, [npm][1]
 
 ## Install
 
@@ -52,3 +52,5 @@ npm i
 ```sh
 grunt
 ```
+
+[1]: https://www.npmjs.com/

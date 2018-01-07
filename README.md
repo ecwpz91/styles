@@ -42,6 +42,8 @@ wget ${GITREPO} \
 
 ## Setup
 
+### Using npm
+
 ```sh
 cd styles/
 npm i

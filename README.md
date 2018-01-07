@@ -42,7 +42,7 @@ wget ${GITREPO} \
 
 ## Setup
 
-### Using npm
+### Using `npm`
 
 ```sh
 cd styles/
@@ -51,8 +51,15 @@ npm i
 
 # Usage
 
+### Build it!
+
 ```sh
 grunt
 ```
+
+#### What does this script do?
+
+It compiles Bootstrap CSS and JS, as well as, Font Awesome iconography into `dist`. 
+
 
 [1]: https://www.npmjs.com/

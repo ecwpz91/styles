@@ -59,7 +59,7 @@ grunt
 
 #### What does this script do?
 
-It compiles Bootstrap and embeds Font Awesome iconography into the `dist` directory. That's it!
+It compiles Bootstrap and embeds Font Awesome iconography into `dist/`. That's it!
 
 
 [1]: https://www.npmjs.com/
